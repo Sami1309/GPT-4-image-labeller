@@ -1,4 +1,7 @@
 # GPT-4-image-labeller
+IMPORTANT: OpenAI limits use of GPT-4 Vision to 100 requests a day, so this will be unusable for large directories of images.
+If there's any interest in this I'll develop it more but until this this is just an exercise.
+
 Labels images on your computer with the GPT-4 Vision api and sorts them into a destination folder
 
 ## Usage
